@@ -1,0 +1,131 @@
+﻿  tnode.cpp
+  源.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(81,17): error C2079: “CdbBSTR”使用未定义的 class“DLLEXPORT”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(83,2): error C2059: 语法错误:“public”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(85,15): error C2143: 语法错误: 缺少“;”(在“~”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(85,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(85,26): error C2588: “::~CdbBSTR”: 非法的全局 析构函数
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(85,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(85,16): error C2365: “CdbBSTR”: 重定义；以前的定义是“数据变量”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(81): message : 参见“CdbBSTR”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(87,29): error C2801: “operator BSTR”必须是非静态成员
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(88,30): error C2801: “operator LPCTSTR”必须是非静态成员
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(90,2): error C2059: 语法错误:“private”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(92,2): error C2059: 语法错误:“}”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(92,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(98,2): error C2504: “COleVariant”: 未定义基类
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(100,35): error C3646: “CdbVariant”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(100,35): error C2059: 语法错误:“(”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(100,43): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(101,66): error C3646: “CdbVariant”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(101,66): error C2059: 语法错误:“(”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(101,72): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(102,66): error C3646: “CdbVariant”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(102,66): error C2059: 语法错误:“(”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(102,80): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(103,66): error C3646: “CdbVariant”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(103,66): error C2059: 语法错误:“(”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(103,97): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(104,66): error C3646: “CdbVariant”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(104,66): error C2059: 语法错误:“(”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(104,80): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(105,66): error C3646: “CdbVariant”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(105,66): error C2059: 语法错误:“(”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(105,83): error C2238: 意外的标记位于“;”之前
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(114,32): error C2143: 语法错误: 缺少“;”(在“CdbVariant::{ctor}”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(114,8): error C7525: 内联变量至少需要 "/std:c++17"
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(114,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(115,8): error C2600: “CdbVariant::CdbVariant”: 不能定义编译器生成的特殊成员函数(必须首先在类中声明)
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(115,10): error C2614: “CdbVariant”: 非法的成员初始化:“COleVariant”不是基或成员
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(115,10): message : 此诊断出现在编译器生成的函数“CdbVariant::CdbVariant(void)”中
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(117,2): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(117,2): message : 此诊断出现在编译器生成的函数“CdbVariant::CdbVariant(void)”中
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(118,2): error C2065: “scode”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(118,2): message : 此诊断出现在编译器生成的函数“CdbVariant::CdbVariant(void)”中
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(122,1): error C2511: “CdbVariant::CdbVariant(LONG)”:“CdbVariant”中没有找到重载的成员函数
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(97): message : 参见“CdbVariant”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(125,4): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(126,4): error C2065: “scode”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(130,4): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(131,4): error C2065: “lVal”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(136,32): error C2143: 语法错误: 缺少“;”(在“CdbVariant::{ctor}”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(136,8): error C7525: 内联变量至少需要 "/std:c++17"
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(136,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(136,8): error C2086: “int CONSTRUCTOR”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(114): message : 参见“CONSTRUCTOR”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(137,15): error C2511: “CdbVariant::CdbVariant(LPCTSTR)”:“CdbVariant”中没有找到重载的成员函数
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(97): message : 参见“CdbVariant”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(137,34): error C2065: “VT_BSTRT”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(138,2): error C2550: “CdbVariant::{ctor}”: 构造函数初始值设定项列表只能在构造函数定义中使用
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(141,16): error C2671: “CdbVariant::{ctor}”: 静态成员函数没有“this”指针
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(142,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(143,3): error C2065: “scode”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(148,32): error C2143: 语法错误: 缺少“;”(在“CdbVariant::{ctor}”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(148,8): error C7525: 内联变量至少需要 "/std:c++17"
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(148,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(148,8): error C2086: “int CONSTRUCTOR”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(114): message : 参见“CONSTRUCTOR”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(149,25): error C2511: “CdbVariant::CdbVariant(SHORT,BOOL)”:“CdbVariant”中没有找到重载的成员函数
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(97): message : 参见“CdbVariant”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(150,2): error C2550: “CdbVariant::{ctor}”: 构造函数初始值设定项列表只能在构造函数定义中使用
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(153,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(154,3): error C2065: “boolVal”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(158,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(159,3): error C2065: “scode”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(163,32): error C2143: 语法错误: 缺少“;”(在“CdbVariant::{ctor}”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(163,8): error C7525: 内联变量至少需要 "/std:c++17"
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(163,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(163,8): error C2086: “int CONSTRUCTOR”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(114): message : 参见“CONSTRUCTOR”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(165,2): error C2511: “CdbVariant::CdbVariant(LPVARIANT)”:“CdbVariant”中没有找到重载的成员函数
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(97): message : 参见“CdbVariant”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(168,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(169,3): error C2065: “scode”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(172,15): error C2671: “CdbVariant::{ctor}”: 静态成员函数没有“this”指针
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(175,32): error C2143: 语法错误: 缺少“;”(在“CdbVariant::{ctor}”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(175,8): error C7525: 内联变量至少需要 "/std:c++17"
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(175,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(175,8): error C2086: “int CONSTRUCTOR”: 重定义
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(114): message : 参见“CONSTRUCTOR”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(177,2): error C2511: “CdbVariant::CdbVariant(LPSAFEARRAY)”:“CdbVariant”中没有找到重载的成员函数
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(97): message : 参见“CdbVariant”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(180,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(181,3): error C2065: “scode”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(185,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(186,3): error C2065: “parray”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(195,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(196,3): error C2065: “scode”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(199,23): error C2664: “HRESULT VariantCopy(VARIANTARG *,const VARIANTARG *)”: 无法将参数 1 从“CdbVariant *”转换为“VARIANTARG *”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(199,15): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.18362.0\um\oleauto.h(177,14): message : 参见“VariantCopy”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(207,20): error C2664: “HRESULT VariantClear(VARIANTARG *)”: 无法将参数 1 从“CdbVariant *”转换为“VARIANTARG *”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(207,16): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.18362.0\um\oleauto.h(175,14): message : 参见“VariantClear”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(208,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(209,3): error C2065: “scode”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(214,3): error C2065: “bstrVal”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(218,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(228,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(229,3): error C2065: “scode”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(233,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(234,3): error C2065: “iVal”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(243,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(244,3): error C2065: “scode”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(248,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(249,3): error C2065: “iVal”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(259,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(260,3): error C2065: “scode”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(264,3): error C2065: “vt”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(265,3): error C2065: “lVal”: 未声明的标识符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(278,27): error C3646: “CdbWide”: 未知重写说明符
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(278,27): error C2059: 语法错误:“(”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(279,3): error C2334: “{”的前面有意外标记；跳过明显的函数体
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(282,15): error C2143: 语法错误: 缺少“;”(在“~”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(282,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(309,17): error C2079: “CdbOleObject”使用未定义的 class“DLLEXPORT”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(309,30): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(309,30): error C2059: 语法错误:“:”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(309,32): error C2059: 语法错误:“public”
+D:\Windows Kits\10\Include\10.0.18362.0\um\_dbdao.h(309,39): fatal error C1003: 错误计数超过 100；正在停止编译
+  正在生成代码...
+C:\Users\李鑫宇\source\repos\tree\tnode.cpp(107): warning C4715: “bts::search”: 不是所有的控件路径都返回值

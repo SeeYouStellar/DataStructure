@@ -1,0 +1,2 @@
+C:\Users\李鑫宇\source\repos\minivector\x64\Debug\minivector.exe
+C:\Users\李鑫宇\source\repos\minivector\x64\Debug\minivector.pdb
